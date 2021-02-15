@@ -43,26 +43,25 @@ table {
     height: 30px;
     width: 150px;
     border: none;
-    cursor: pointer;
     border: 2px solid black;
     background-color:white;
   }
 
   .pview {
-    width: 70%;
+    width: 40%;
     line-height: 1.5;
     margin-right: 2px;
   }
   
   .pview input {
-    width: 200px;
-    height: 50px;
+    width: 140px;
+    height: 30px;
     border: 2px solid black;
   }
 
   select {
-    height: 34px;
-    width: 206px;
+    height: 40px;
+    width: 150px;
     border: 2px solid black;
   }
 
